@@ -1,6 +1,6 @@
 # DualShock 4 Rumble Control
 
-
+![Yes](https://github.com/bayeggex/DualShockDriver/raw/main/Videos/Kay%C4%B1t%202026-07-26%20223940.gif)
 
 
 ## Overview
